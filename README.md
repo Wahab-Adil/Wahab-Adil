@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wahab Adil</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
-<img align='right' alt='animation'  src='[https://th.bing.com/th/id/OIP.defveqJwCb77B2UJOCuGuAHaFj?pid=ImgDet&rs=1](https://www.suntecindia.com/img/development-logos.png)' />
+<img align='right' alt='animation'  src='https://www.suntecindia.com/img/development-logos.png' />
 
 - 🔭Bradging Business [Afghan Business](https://github.com/KDRUCSProjects/bridging-business-system-3023103)
 
