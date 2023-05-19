@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **wahab.cs238@gmail.com**
 
-- 📄 Know about my experiences [I have 2 Year Experience in Field of FrontEnd Web Develeopment](I have 2 Year Experience in Field of FrontEnd Web Develeopment)
+- 📄 Know about my experiences [I have 2 Year of Experience in Field of FrontEnd Web Develeopment]
 
 - ⚡ Fun fact **Software Engineering**
 
