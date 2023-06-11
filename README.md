@@ -1,7 +1,6 @@
 
 ### Github Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Wahab-Adil&hide_border=true&count_private=true&show_icons=true&theme=radical)
+[![Wahab-Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahab-Adil)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Achievements
 
