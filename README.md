@@ -17,16 +17,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Wahab Adil</h1>
-<h3 align="center">A passionate frontend developer from Afghanistan</h3>
+<h3 align="center">FullStack Web Developer</h3>
 <hr/>
 <img align='right' alt='animation'  src='https://www.suntecindia.com/img/development-logos.png' />
 <hr/>
 <hr/>
 <hr/>
 <hr/>
-- 🔭Bradging Business [Afghan Business](https://github.com/KDRUCSProjects/bridging-business-system-3023103)
+- 🔭Ecommerce [Afghan Business v2](https://github.com/Wahab-Adil/Ecommerce)
 
-- 🌱 I’m currently learning **MERN-Stack & English Language**
+- 🌱 I’m currently Specilizing in the **MERN-Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wahab-Adil](https://github.com/Wahab-Adil)
 
@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **wahab.cs238@gmail.com**
 
-- 📄 Know about my experiences [I have 2 Year of Experience in Field of FrontEnd Web Develeopment]
+- 📄 Know about my experiences [I have 2 Year of Experience in Field of Web Develeopment]
 
 - ⚡ Fun fact **Software Engineering**
 
