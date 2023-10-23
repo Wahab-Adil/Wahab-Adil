@@ -29,7 +29,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wahab-Adil](https://github.com/Wahab-Adil)
 
-- 💬 Ask me about **HTML,CSS,JS,React,Redux,...**
+- 💬 Ask me about **HTML,CSS,JS,React,Redux,Node(Express)...**
 
 - 📫 How to reach me **wahab.cs238@gmail.com**
 
