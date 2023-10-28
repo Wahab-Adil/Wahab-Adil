@@ -52,12 +52,5 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
 </a>
- 
-<div> 
-  <p align="center">
-    <a href="#"><img title="Snake animation" src="./snake.svg">
-    </a>
-  </p>
-</div>
 
 
