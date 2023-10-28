@@ -2,6 +2,9 @@
 ### Github Stats
 [![Wahab-Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahab-Adil&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![](https://visitcount.itsvg.in/api?id=wahab-adil&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <p style="display:black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahab-adil&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="wahab-adil" /></p>
 <hr/>
 <hr/>
