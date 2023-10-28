@@ -25,7 +25,7 @@
 <hr/>
 - 🔭Ecommerce [Afghan Business v2](https://github.com/Wahab-Adil/Ecommerce)
 
-- 🌱 I’m currently SpeciaSlizing in the **MERN-Stack**
+- 🌱 I’m currently Specializing in the **MERN-Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wahab-Adil](https://github.com/Wahab-Adil)
 
