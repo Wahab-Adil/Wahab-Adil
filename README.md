@@ -1,12 +1,8 @@
 
 ### Github Stats
-[![Wahab-Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahab-Adil)](https://github.com/anuraghazra/github-readme-stats)
+[![Wahab-Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahab-Adil&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Github Achievements
-
-![Github Streaks](https://github-profile-trophy.vercel.app/?username=Wahab-Adil&theme=radical&row=1&column=8)
-
-<p style="display:black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahab-adil&show_icons=true&locale=en&layout=compact" alt="wahab-adil" /></p>
+<p style="display:black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahab-adil&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="wahab-adil" /></p>
 <hr/>
 <hr/>
 <hr/>
