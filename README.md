@@ -1,4 +1,6 @@
-
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header"/>
+</a>
 ### Github Stats
 [![Wahab-Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahab-Adil&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -47,9 +49,15 @@
     </a>
 
 
-
-### Github Details
-
-![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wahab-Adil&theme=github_dark)
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
+</a>
+ 
+<div> 
+  <p align="center">
+    <a href="#"><img title="Snake animation" src="./snake.svg">
+    </a>
+  </p>
+</div>
 
 
