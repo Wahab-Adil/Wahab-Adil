@@ -47,9 +47,6 @@
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=wahab-adil&theme=onedark&hide_border=true"/>
     </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahab-adil&" alt="wahab-adil" /></p>
-
-
 
 
 ### Github Details
