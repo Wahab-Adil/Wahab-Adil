@@ -1,72 +1,70 @@
 
-<a href="https://wahabadil.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=Wahab%20Adil&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Senior%20Full-Stack%20Web%20Developer&descAlignY=65&descSize=16"/>
-</a>
+<!-- ===================== HEADER ===================== -->
 
-<h3 align="center">
-  Building scalable, reliable, and high-quality digital solutions.
-</h3>
+<div align="center">
+  
+### About Me
 
-<p align="center">
-  <a href="https://wahabadil.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/wahab-adil-1b2944277/">LinkedIn</a> •
-  <a href="mailto:wahab.cs238@gmail.com">Email</a>
+Self-taught Senior Full-Stack Developer with 5+ years of experience building scalable, reliable, and production-ready web applications. Passionate about clean architecture, quality engineering, and solving real-world problems.
+
+---
+
+### Tech Stack
+
+**01 · Frontend Engineering**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind&perline=5" alt="React, Next.js, TypeScript, Redux, Tailwind CSS"/>
+</p>
+
+**02 · Backend Engineering**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&perline=3" alt="Node.js, NestJS, Express.js"/>
+</p>
+
+**03 · Databases & Caching**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=3" alt="PostgreSQL, MongoDB, Redis"/>
+</p>
+
+**04 · Messaging & Event Streaming**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka"/>
+</p>
+
+**05 · Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git&perline=2" alt="Docker, Git"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### GitHub Analytics
 
-- Senior Full-Stack Web Developer with 5+ years of experience.
-- Self-taught developer passionate about solving real-world problems.
-- Focused on scalable architecture, clean code, and reliable applications.
-- Building modern web solutions from concept to deployment.
-- Based in Kabul, Afghanistan.
+<div align="center">
 
-### 🛠️ Technologies & Tools
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wahab-Adil&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,nestjs,spring,mongodb,postgres,redis,docker,git,github,postman,prisma&perline=10" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahab-Adil&layout=compact&hide_border=true&theme=github_dark&langs_count=6"/>
 
-### 📊 GitHub Statistics
+<br/><br/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wahab-Adil&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahab-Adil&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<img width="80%" src="https://streak-stats.demolab.com?user=Wahab-Adil&theme=github-dark-blue&hide_border=true"/>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahab-Adil&theme=github-dark-blue&hide_border=true" />
-</p>
-
-### 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://wahabadil.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1e293b?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Wahab-Adil">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/wahab-adil-1b2944277/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:wahab.cs238@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wahab-Adil&label=Profile%20Views&color=334155&style=flat" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Building with passion. Learning continuously. Delivering quality.</i>
-</p>
+<div align="center">
 
-<a href="https://wahabadil.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=100&section=footer"/>
-</a>
+**Based in Kabul, Afghanistan**
+
+*Always building. Always improving.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=90&section=footer"/>
+
+</div>
